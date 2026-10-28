@@ -1,6 +1,15 @@
 ﻿<div align="center">
 
+<a href="https://github.com/akashvenkey/Business-Analytics.1">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=713F12,CA8A04,FDE047&height=220&section=header&text=Financial%20%26%20Market%20Analytics&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Advanced%20EDA%2C%20Customer%20Segmentation%20%26%20Predictive%20Revenue%20Modeling&descSize=16&descAlignY=60&descAlign=50" alt="Financial & Market Analytics Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Business-Analytics.1](https://github.com/akashvenkey/Business-Analytics.1)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FBusiness-Analytics.1-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Business-Analytics.1)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Business-Analytics.1.git)
 
 [![Analytics](https://img.shields.io/badge/Domain-Financial_%26_Market_Analytics-CA8A04?style=for-the-badge&logo=cashapp&logoColor=white)](https://github.com/akashvenkey/Business-Analytics.1)
 [![Segmentation](https://img.shields.io/badge/Model-RFM_Customer_Segmentation-713F12?style=for-the-badge)](https://github.com/akashvenkey/Business-Analytics.1)
@@ -162,6 +171,15 @@ Contributions of financial datasets, pricing algorithms, and retention models ar
 
 <div align="center">
 
+<a href="https://github.com/akashvenkey/Business-Analytics.1">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=713F12,CA8A04,FDE047&height=100&section=footer" alt="Footer Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Business-Analytics.1](https://github.com/akashvenkey/Business-Analytics.1)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FBusiness-Analytics.1-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Business-Analytics.1)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Business-Analytics.1.git)
 
 </div>
