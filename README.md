@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <a href="https://github.com/akashvenkey/Business-Analytics.1">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=713F12,CA8A04,FDE047&height=220&section=header&text=Financial%20%26%20Market%20Analytics&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Advanced%20EDA%2C%20Customer%20Segmentation%20%26%20Predictive%20Revenue%20Modeling&descSize=16&descAlignY=60&descAlign=50" alt="Financial & Market Analytics Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:713F12,50:CA8A04,100:FDE047&height=220&section=header&text=Financial%20and%20Market%20Analytics&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Advanced%20EDA%2C%20Customer%20Segmentation%20and%20Predictive%20Revenue%20Modeling&descSize=16&descAlignY=60&descAlign=50" alt="Financial & Market Analytics Banner" width="100%" />
 </a>
 
 
@@ -172,7 +172,7 @@ Contributions of financial datasets, pricing algorithms, and retention models ar
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Business-Analytics.1">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=713F12,CA8A04,FDE047&height=100&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:713F12,50:CA8A04,100:FDE047&height=100&section=footer" alt="Footer Banner" width="100%" />
 </a>
 
 
